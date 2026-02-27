@@ -3,6 +3,7 @@
 ESTADO DEL PROYECTO: Activo
 VERSIÓN: 1.0
 
+
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: Fernanda Osorio
 Tecnología asignada: React
