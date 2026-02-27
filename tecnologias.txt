@@ -1,7 +1,7 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
 
-ÚLTIMA REVISIÓN: 27/2/2026
-RESPONSABLE: Joel Navarro Molins
+ÚLTIMA REVISIÓN: 27/02/2026
+RESPONSABLE: Biel García López & Joel Navarro Molins
 
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
